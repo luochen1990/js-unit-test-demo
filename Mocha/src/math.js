@@ -6,4 +6,8 @@ function sum(ls){
 	return r;
 }
 
-module.exports = { sum: sum }
+if(typeof module !== "undefined" && module !== null){
+	module.exports = {sum: sum}
+} else {
+	window.math = {sum: sum}
+}

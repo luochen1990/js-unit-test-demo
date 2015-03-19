@@ -1,5 +1,7 @@
-var math = require('../src/math');
-var expect = require('chai').expect;
+if(typeof module !== "undefined" && module !== null){
+	var math = require('../src/math');
+	var expect = require('chai').expect;
+}
 
 describe("math", function(){
 	describe("sum", function(){
@@ -28,3 +30,4 @@ describe("math", function(){
 		})
 	})
 })
+
