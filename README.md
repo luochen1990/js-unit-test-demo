@@ -7,6 +7,7 @@ Javascript单元测试框架Demo
 `Jasmine/`目录用来演示 `Jasmine`, `Jasmine + chai`, `Jasmine + chai + Karma` 的使用
 
 [compare.md文件](compare.md)中罗列了一些两者的比较
+[all.md文件](all.md)中有完整的调研报告
 
 How To Run
 ----------

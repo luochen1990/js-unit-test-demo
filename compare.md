@@ -16,3 +16,5 @@ Mocha vs. Jasmine
 | CI支持情况			| 支持或通过第三方插件支持大多数主流CI | 同 |
 | 项目成熟度			| 较新（2012年发布1.0版本） | 较成熟（2011年发布1.0版本，2013年发布2.0版本） |
 | 项目活跃情况			| [较活跃](https://github.com/mochajs/mocha/pulse) | [较不活跃](https://github.com/jasmine/jasmine/pulse) |
+| TDD / BDD 风格支持	| 支持TDD和BDD风格，可以自由配置 | 仅支持BDD风格 |
+
